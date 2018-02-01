@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Point of Interest": "Þingvellir National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0498046875,
+          64.29467520380598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Point of Interest": "Kerið Crater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.885009765625,
+          64.04155952050739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Point of Interest": "Mýrdalsjökull Glacier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.083251953125,
+          63.658448979940175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Point of Interest": "Gulfoss Waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.0994873046875,
+          64.33158110529105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Point of Interest": "Geyser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.30548095703125,
+          64.31313433253928
+        ]
+      }
+    }
+  ]
+}
